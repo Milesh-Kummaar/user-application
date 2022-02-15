@@ -6,7 +6,6 @@ import userapplication.io.BaseResponse;
 
 import java.util.UUID;
 
-
 @Service
 public interface UserService {
 
